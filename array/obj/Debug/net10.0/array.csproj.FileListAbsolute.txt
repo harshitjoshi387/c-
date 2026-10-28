@@ -1,0 +1,15 @@
+c:\c#\myapp\array\obj\Debug\net10.0\array.GeneratedMSBuildEditorConfig.editorconfig
+c:\c#\myapp\array\obj\Debug\net10.0\array.AssemblyInfoInputs.cache
+c:\c#\myapp\array\obj\Debug\net10.0\array.AssemblyInfo.cs
+c:\c#\myapp\array\obj\Debug\net10.0\array.csproj.CoreCompileInputs.cache
+c:\c#\myapp\array\obj\Debug\net10.0\array.sourcelink.json
+c:\c#\myapp\array\bin\Debug\net10.0\array.exe
+c:\c#\myapp\array\bin\Debug\net10.0\array.deps.json
+c:\c#\myapp\array\bin\Debug\net10.0\array.runtimeconfig.json
+c:\c#\myapp\array\bin\Debug\net10.0\array.dll
+c:\c#\myapp\array\bin\Debug\net10.0\array.pdb
+c:\c#\myapp\array\obj\Debug\net10.0\array.dll
+c:\c#\myapp\array\obj\Debug\net10.0\refint\array.dll
+c:\c#\myapp\array\obj\Debug\net10.0\array.pdb
+c:\c#\myapp\array\obj\Debug\net10.0\array.genruntimeconfig.cache
+c:\c#\myapp\array\obj\Debug\net10.0\ref\array.dll
