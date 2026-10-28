@@ -1,0 +1,14 @@
+c:\c#\myapp\Q3_Grade\bin\Debug\net10.0\Q3_Grade.exe
+c:\c#\myapp\Q3_Grade\bin\Debug\net10.0\Q3_Grade.deps.json
+c:\c#\myapp\Q3_Grade\bin\Debug\net10.0\Q3_Grade.runtimeconfig.json
+c:\c#\myapp\Q3_Grade\bin\Debug\net10.0\Q3_Grade.dll
+c:\c#\myapp\Q3_Grade\bin\Debug\net10.0\Q3_Grade.pdb
+c:\c#\myapp\Q3_Grade\obj\Debug\net10.0\Q3_Grade.GeneratedMSBuildEditorConfig.editorconfig
+c:\c#\myapp\Q3_Grade\obj\Debug\net10.0\Q3_Grade.AssemblyInfoInputs.cache
+c:\c#\myapp\Q3_Grade\obj\Debug\net10.0\Q3_Grade.AssemblyInfo.cs
+c:\c#\myapp\Q3_Grade\obj\Debug\net10.0\Q3_Grade.csproj.CoreCompileInputs.cache
+c:\c#\myapp\Q3_Grade\obj\Debug\net10.0\Q3_Grade.dll
+c:\c#\myapp\Q3_Grade\obj\Debug\net10.0\refint\Q3_Grade.dll
+c:\c#\myapp\Q3_Grade\obj\Debug\net10.0\Q3_Grade.pdb
+c:\c#\myapp\Q3_Grade\obj\Debug\net10.0\Q3_Grade.genruntimeconfig.cache
+c:\c#\myapp\Q3_Grade\obj\Debug\net10.0\ref\Q3_Grade.dll
